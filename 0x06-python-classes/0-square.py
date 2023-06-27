@@ -2,6 +2,6 @@
 """Define a class Square"""
 
 
-class Saquare:
+class Square:
     """this class of saquare """
     pass
